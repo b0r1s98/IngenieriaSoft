@@ -9,7 +9,7 @@ import es.ucm.fdi.integracion.POJOs.AlarmaPOJO;
  * aplicacion
  */
 public interface AlarmaDAO extends DAO<AlarmaPOJO> {
-	//
+	
 	/**
 	 * Obtiene una lista con todas las alarmas activas en el servidor
 	 * 
